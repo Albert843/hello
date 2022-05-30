@@ -1,4 +1,3 @@
 Hello, git!
-hi!
 good buy
 good morning
